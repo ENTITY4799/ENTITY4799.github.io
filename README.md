@@ -1,2 +1,3 @@
-# ENTITY4799.github.io
-Pixel Minecraft Launcher启动器，由driver166开发并维护，Entity4799进行官网的维护
+#Pixel Minecraft Launcher & Pixel Server Launcher
+##Pixel Launcher系列包含了最基本的Minecraft启动器以及Minecraft服务器启动器，励志为所有的Minecraft玩家打造极致的游戏体验。
+咨询有关Pixel Launcher的问题，请加QQ 2399421609和QQ 234440846
